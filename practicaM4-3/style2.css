@@ -1,0 +1,23 @@
+body{
+    background-color: darkmagenta;
+}
+
+h1{
+    font-size: xx-large;
+    color: bisque;
+}
+
+h3{
+    background-color: blueviolet;
+}
+.title{
+    background-color: limegreen;
+    font-size: medium;
+}
+.logo{
+    width: 350px;
+}
+#principal{
+    background-color: aqua;
+    color: blue;
+}
