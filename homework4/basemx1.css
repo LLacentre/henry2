@@ -33,3 +33,17 @@ h2{
     justify-content: center;
     align-items: center;
    }
+
+   .prueba {
+
+    color: rebeccapurple;
+    background-color: turquoise;
+    width: 800px;
+    font-size: 80px;
+    border: 3px;
+    border-color: solid black ;
+    border-radius: 3%;
+    display: flex;
+    justify-content: flex-start;
+    justify-self: center;
+   }
